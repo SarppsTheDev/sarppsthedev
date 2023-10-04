@@ -1,16 +1,37 @@
-### Hi there 👋
+# GitHub Profile
 
-<!--
-**SarppsTheDev/sarppsthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, what’s good? 👋🏾
 
-Here are some ideas to get you started:
+I’m a Full-Stack Software Engineer based in London, UK. I am currently working in the fintech industry for an investment management firm. My daily role revolves around developing algorithms to calculate future interest payments and to help provide recommendations for investment strategies to hundreds of thousands of customers in the UK.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Website 🔗
+
+[Sarpps The Developer](http://sarppsthedev.com)
+
+## **My Skills** 🛠️
+
+These are some of the major technologies that I have experience in:
+
+### Programming Languages
+
+C# - React - Javascript - HTML - CSS - Swift - Python - PHP - Visual Basic
+
+### Libraries/Frameworks
+
+.NET - Bootstrap - Docker - Flask - 
+
+### Infrastructure
+
+Microsoft Azure (AZ-204 Certified) - Google Cloud Platform
+
+### Databases
+
+SQL - SQLite - MongoDB
+
+### Tools
+
+Visual Studio Code - Visual Studio 2022 - JetBrains Rider - XCode - PyCharm - Azure Data Studio - SSMS - Git
+
+## What I’m currently learning 📚
+
+## Github Stats
