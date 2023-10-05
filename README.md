@@ -18,23 +18,46 @@ These are some of the major technologies that I have experience in and certifica
 
 ### Programming Languages
 
-![C#](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/c-sharp.png) - React - Javascript - HTML - CSS - Swift - Python - PHP - Visual Basic
+![C#](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/c-sharp.png)
+![React](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Reactjs.svg)
+![Javascript](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Javascript.svg)
+![HTML](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/HTML5.svg)
+![CSS](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/CSS3.svg)
+![Swift](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/swift.png)
+![Python](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Python.svg)
+![PHP](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/PHP.svg)
+![Visual Basic](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/visual-basic.png)
 
 ### Libraries/Frameworks
 
-.NET - Bootstrap - Docker - Flask - 
+![.NET](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/dotNETlogo.svg)
+![Bootstrap](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Bootstrap.svg)
+![Docker](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/docker.png)
+![Flask](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Flask_logo.svg)
 
 ### Infrastructure
 
-Microsoft Azure (AZ-204 Certified) - Google Cloud Platform
+![Microsoft Azure]()
+![Google Cloud Platform](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/google_cloud_platform.png)
 
 ### Databases
 
-SQL - SQLite - MongoDB
+![SQL]()
+![SQLite]()
+![MongoDB](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/mongodb.svg)
 
 ### Tools
 
-Visual Studio Code - Visual Studio 2022 - JetBrains Rider - XCode - PyCharm - Microsoft Power Apps - Azure Data Studio - SSMS - Git
+![Visual Studio Code](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/VSCodeLogo.png)
+![Visual Studio 2022]()
+![JetBrains Rider](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/JetBrains_Rider_Icon.png)
+![XCode](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/xcode_logo.png)
+![PyCharm](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/PyCharm_Icon.png)
+![Microsoft Power Apps](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/PowerApps_logo.svg)
+![Figma]()
+![Adobe XD](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Adobe%20Xd.svg)
+![Azure Data Studio](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/azure_data_studio.png)
+![Git](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Git-logo.png)
 
 ## What I’m currently learning 📚
 
