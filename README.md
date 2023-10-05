@@ -18,46 +18,40 @@ These are some of the major technologies that I have experience in and certifica
 
 ### Programming Languages
 
-![C#](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/c-sharp.png)
-![React](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Reactjs.svg)
-![Javascript](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Javascript.svg)
-![HTML](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/HTML5.svg)
-![CSS](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/CSS3.svg)
-![Swift](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/swift.png)
-![Python](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Python.svg)
-![PHP](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/PHP.svg)
-![Visual Basic](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/visual-basic.png)
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/c-sharp.png" alt="C#" width="32px"><img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Reactjs.svg" alt="React" width="32px">
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Javascript.svg" alt="Javascript" width="32px">
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/HTML5.svg" alt="HTML" width="32px">
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/CSS3.svg" alt="CSS" width="32px">
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/swift.png" alt="Swift" width="32px">
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Python.svg" alt="Python" width="32px">
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/PHP.svg" alt="PHP" width="32px">
 
 ### Libraries/Frameworks
 
-![.NET](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/dotNETlogo.svg)
-![Bootstrap](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Bootstrap.svg)
-![Docker](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/docker.png)
-![Flask](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Flask_logo.svg)
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/dotNETlogo.svg" alt=".NET" width="32px"> <img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="32px">
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/docker.png" alt="Docker" width="32px">
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Flask_logo.svg" alt="Flask" width="32px">
 
 ### Infrastructure
 
-![Microsoft Azure]()
-![Google Cloud Platform](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/google_cloud_platform.png)
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/azure.png" alt="Microsoft Azure" width="32px"><img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/google_cloud_platform.png" alt="Google Cloud Platform" width="32px">
 
 ### Databases
 
-![SQL]()
-![SQLite]()
-![MongoDB](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/mongodb.svg)
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/sql-database-generic.svg" alt="SQL" width="32px"><img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/mongodb.svg" alt="MongoDB" width="32px">
 
 ### Tools
 
-![Visual Studio Code](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/VSCodeLogo.png)
-![Visual Studio 2022]()
-![JetBrains Rider](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/JetBrains_Rider_Icon.png)
-![XCode](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/xcode_logo.png)
-![PyCharm](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/PyCharm_Icon.png)
-![Microsoft Power Apps](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/PowerApps_logo.svg)
-![Figma]()
-![Adobe XD](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Adobe%20Xd.svg)
-![Azure Data Studio](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/azure_data_studio.png)
-![Git](https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Git-logo.png)
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/VSCodeLogo.png" alt="Visual Studio Code" width="32px"><img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/visual-studio-22.png" alt="Visual Studio 2022" width="32px">
+<img src="https://ithub.com/SarppsTheDev/sarppsthedev/blob/main/icons/JetBrains_Rider_Icon.png" alt="JetBrains Rider" width="32px">
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/xcode_logo.png" alt="XCode" width="32px">
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/PyCharm_Icon.png" alt="PyCharm" width="32px">
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/PowerApps_logo.svg" alt="Microsoft Power Apps" width="32px">
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/figma.png" alt="Figma" width="32px">
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Adobe%20Xd.svg" alt="Adobe XD" width="32px">
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/azure_data_studio.png" alt="Azure Data Studio" width="32px">
+<img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Git-logo.png" alt="Git" width="32px">
+
 
 ## What I’m currently learning 📚
 
