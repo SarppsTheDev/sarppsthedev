@@ -52,7 +52,10 @@ These are some of the major technologies that I have experience in and certifica
 <img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/azure_data_studio.png" alt="Azure Data Studio" height="32px">
 <img src="https://github.com/SarppsTheDev/sarppsthedev/blob/main/icons/Git-logo.png" alt="Git" height="32px">
 
+## What I’m working on 📚
 
-## What I’m currently learning 📚
+- Building an e-commerce site to resell shoes
+- Enhancing my portfolio and building up my social media presence
 
-## Github Stats
+## Github Stats 📊
+[![Sarpps' The Developer GitHub stats](https://github-readme-stats.vercel.app/api?username=SarppsTheDev)](https://github.com/anuraghazra/github-readme-stats)
