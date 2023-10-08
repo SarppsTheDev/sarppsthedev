@@ -58,4 +58,4 @@ These are some of the major technologies that I have experience in and certifica
 - Enhancing my portfolio and building up my social media presence
 
 ## Github Stats 📊
-[![Sarpps' The Developer GitHub stats](https://github-readme-stats.vercel.app/api?username=SarppsTheDev)](https://github.com/anuraghazra/github-readme-stats)
+[![Sarpps' The Developer GitHub stats](https://github-readme-stats.vercel.app/api?username=SarppsTheDev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
